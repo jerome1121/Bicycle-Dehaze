@@ -1,9 +1,10 @@
 How to run ?
 ========================
 
-sh main.sh src_dir des_dir
+`sh main.sh src_dir des_dir`
 
 `src_dir`: path to your test data dir which includes 51.png ~ 55.png
+
 `des_dir`: destination directory where the dehazed images saved
 
 
